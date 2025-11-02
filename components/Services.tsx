@@ -64,7 +64,7 @@ export default function Services() {
               전 과정 데이터 컨설팅
             </h2>
             <p className="text-lg sm:text-xl text-gray-600 max-w-3xl mx-auto">
-              분석 결과를 넘어서, <span className="font-bold text-purple-600">'이 데이터를 어떻게 활용할지'</span>까지 함께 제시합니다
+              분석 결과를 넘어서, <span className="font-bold text-purple-600">&lsquo;이 데이터를 어떻게 활용할지&rsquo;</span>까지 함께 제시합니다
             </p>
           </div>
 

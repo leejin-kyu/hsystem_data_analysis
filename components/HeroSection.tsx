@@ -32,8 +32,8 @@ export default function HeroSection() {
           {/* Problem Statement - 문제 제기 */}
           <div className="mb-8 max-w-3xl mx-auto animate-slide-up">
             <p className="text-lg sm:text-xl text-gray-600 mb-4 leading-relaxed">
-              <span className="text-red-600 font-bold">"데이터는 많은데, 뭘 해야 할지 모르겠어요."</span><br />
-              <span className="text-red-600 font-bold">"AI는 어렵고, 분석 결과를 비즈니스에 어떻게 연결해야 할지 막막합니다."</span>
+              <span className="text-red-600 font-bold">&ldquo;데이터는 많은데, 뭘 해야 할지 모르겠어요.&rdquo;</span><br />
+              <span className="text-red-600 font-bold">&ldquo;AI는 어렵고, 분석 결과를 비즈니스에 어떻게 연결해야 할지 막막합니다.&rdquo;</span>
             </p>
           </div>
 
@@ -45,7 +45,7 @@ export default function HeroSection() {
 
           {/* Empathy & Solution - 공감 + 해결방식 */}
           <p className="text-lg sm:text-xl md:text-2xl text-gray-700 mb-4 max-w-3xl mx-auto animate-slide-up animation-delay-400">
-            그럴 때 필요한 것은 단순한 분석이 아니라, <span className="font-bold text-purple-600">'의사결정을 위한 해석력'</span>입니다
+            그럴 때 필요한 것은 단순한 분석이 아니라, <span className="font-bold text-purple-600">&lsquo;의사결정을 위한 해석력&rsquo;</span>입니다
           </p>
 
           <p className="text-base sm:text-lg md:text-xl text-gray-600 mb-8 max-w-3xl mx-auto animate-slide-up animation-delay-500">
@@ -147,7 +147,7 @@ export default function HeroSection() {
                     직방·삼양화학 등 다수 기업 프로젝트 수행
                   </p>
                   <p className="text-xs text-gray-500">
-                    <span className="font-semibold">"데이터를 보는 눈이 달라지면, 의사결정이 달라집니다."</span>
+                    <span className="font-semibold">&ldquo;데이터를 보는 눈이 달라지면, 의사결정이 달라집니다.&rdquo;</span>
                   </p>
                 </div>
               </div>
