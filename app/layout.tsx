@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     images: ['/og-image-consulting.jpg'],
   },
   verification: {
-    google: 'google-site-verification-code',
+    google: '845stqUXS6n3PiKrXMmqmgq75rk7cb0UWSJE-s9lxHA',
     other: {
       naver: 'naver-site-verification-code',
     },
